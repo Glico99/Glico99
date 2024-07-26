@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Glico99
-- 👀 I’m interested in Full Stack web developent
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT and Laravel
+- 👋 Ciao, sono Emanuele Abagnale
+- Sono interessato nello sviluppo web full-stack e nella creazione di applicazioni
+- Al momento sto studiando Laravel e tutte le possibilità che offre
+- Inoltre sto imparando JAVA per la creazione di app desktop e gestire al meglio un server
 
 
 <!---
